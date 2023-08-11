@@ -3,10 +3,10 @@
     display: flex;
     justify-content: space-between;
     align-items:center;
-}
-.container{
-display: flex;
-align-items: center;
+} 
+.container {
+    display: flex;
+    align-items: center;
 }
 
 
@@ -14,7 +14,7 @@ align-items: center;
     display: none;
 }
 
-@media screen and (min-widht: 1024px) {
+@media screen and (min-width: 1024px) {
    .cabecalho-titulo{
     display: none;
    } 
