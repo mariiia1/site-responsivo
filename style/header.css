@@ -13,3 +13,9 @@ align-items: center;
 .cabecalho-titulo {
     display: none;
 }
+
+@media screen and (min-widht: 1024px) {
+   .cabecalho-titulo{
+    display: none;
+   } 
+}
