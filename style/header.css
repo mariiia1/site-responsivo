@@ -33,6 +33,10 @@
     top: 100%;
 }
 
+.container-botao:checked~.container {
+    display: block;
+}
+
 @media screen and (min-width: 1024px) {
    .cabecalho-titulo{
     display: flex;
