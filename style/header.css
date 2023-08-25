@@ -13,6 +13,9 @@
       background-position: center;
       display: inline-block;
 }
+.container-imagem{
+    padding: 1em;
+}
 
 .container {
     display: flex;
