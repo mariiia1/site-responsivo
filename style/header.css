@@ -33,7 +33,7 @@
     top: 100%;
 }
 
-.container-botao:checked~.container {
+.container-botao:checked~.conteiner-menu {
     display: block;
 }
 
