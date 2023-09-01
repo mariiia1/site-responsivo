@@ -38,8 +38,8 @@
 }
 
 
-.menu-item .menu-item-titulo{
-    padding: lem;
+.menu-item, .menu-item-titulo{
+    padding: 1em;
     background-color: var(--branco);
 }
 
