@@ -34,7 +34,7 @@
 
 }
 
-.container-botao:checked~.conteiner-menu {
+.container-botao:checked, .conteiner-menu {
     display: block;
 }
 
