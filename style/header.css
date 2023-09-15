@@ -31,7 +31,8 @@
 .conteiner-menu{
     display: none;
     position:absolute;
-    top: 60%;
+    top: 100%;
+    width: 60vw;
 
 }
 
